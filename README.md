@@ -1,7 +1,6 @@
 
 # File Sorter
 
-A brief description of what this project does and who it's for
 
 **What it does:** This project sorts the files in the computer that it is run on based on the file type. The folders that are being sorted and the file destinations can both be configured to the user's preferences. Moreover, it can also reverse previous sorts, so long as the sort data is still in "fileRecords.txt".
 
